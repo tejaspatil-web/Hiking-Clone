@@ -1,0 +1,87 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  font-family: "Poppins", sans-serif;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap");
+
+.container {
+  width: 84.3rem;
+  height: 140%;
+  background-image: url(https://static.vecteezy.com/system/resources/previews/001/409/192/original/abstract-geometric-banner-free-vector.jpg);
+  position: absolute;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-between;
+  margin: 1% 0%;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  /* justify-content: center; */
+}
+
+ul li a {
+  text-decoration: none;
+  color: black;
+}
+
+ul li {
+  list-style-type: none;
+  padding: 4%;
+}
+
+nav .rightnav ul {
+  display: flex;
+}
+
+.rightnav {
+  margin-right: 10%;
+}
+.leftnav {
+  margin-left: 10%;
+}
+
+.content {
+  display: flex;
+  /* align-items: center; */
+  justify-content: center;
+  margin-top: 10%;
+}
+
+.rightcon img {
+  margin-left: 1rem;
+  border-end-end-radius: 40%;
+  border-end-start-radius: 40%;
+  border-start-start-radius: 40%;
+  border-start-end-radius: 40%;
+}
+
+.text {
+  font-size: 5rem;
+}
+
+.btn1 {
+  background-color: rgb(20, 6, 172);
+  color: white;
+  padding: 15px 40px;
+  border-radius: 20px;
+  border: none;
+  margin-top: 10px;
+}
+
+.btn2 {
+  background-color: transparent;
+  color: rgb(20, 6, 172);
+  padding: 10px;
+  border: 2px solid rgb(20, 6, 172);
+  border-radius: 20px;
+  padding: 13px 30px;
+  margin-top: 20px;
+}

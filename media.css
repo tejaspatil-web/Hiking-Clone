@@ -1,0 +1,227 @@
+@media (max-width: 1153px) {
+  .foot {
+    flex-wrap: wrap;
+  }
+
+  .brand2 li {
+    font-size: 20px;
+  }
+
+  .content-table th,
+  td {
+    padding: 26px 16px;
+  }
+
+  li.li4 {
+    margin-top: 30px;
+  }
+
+  li.li5 {
+    margin-top: 30px;
+  }
+
+  .leftfo {
+    margin-right: -50px;
+    margin-top: -100px;
+  }
+
+  .foot {
+    flex-wrap: wrap;
+    margin-left: -70px;
+  }
+}
+
+@media (max-width: 594px) {
+  .cards {
+    flex-direction: column;
+  }
+  .h12 {
+    font-size: 43px;
+  }
+  .brand2 li {
+    font-size: 13px;
+  }
+
+  .main .left .h11 {
+    font-size: 10px;
+  }
+
+  .left {
+    margin-top: -149px;
+    margin-right: -50px;
+  }
+
+  .text12 {
+    font-size: 30px;
+  }
+
+  .right3 .imgs2 {
+    width: 69%;
+  }
+
+  .l1 {
+    flex-wrap: wrap;
+  }
+
+  .r1 {
+    margin-top: 20px;
+  }
+}
+
+@media (max-width: 1171px) {
+  .right .imgs {
+    height: 50%;
+    margin-left: 10%;
+  }
+  .main .left .h11 {
+    font-size: 20px;
+  }
+  .btn1 {
+    padding: 7px 6px;
+    margin-right: 0%;
+  }
+  .btn2 {
+    padding: 6px 4px;
+    border-radius: 20px;
+    margin-top: 5px;
+  }
+  .main {
+    flex-wrap: wrap-reverse;
+  }
+}
+
+@media (max-width: 979px) {
+  .h12 {
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 1000px) {
+  .banner .bh1 {
+    background-color: rgba(0, 0, 0, 0.911);
+    position: fixed;
+    width: 97.9%;
+    height: 99%;
+    color: aliceblue;
+    text-align: center;
+    border-left: 4px solid brown;
+    border-right: 4px solid brown;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 80%;
+  }
+  /* .imgs {
+    opacity: 0.1;
+  }
+  nav ul li a {
+    opacity: 0.3;
+  }
+  .btn1 {
+    opacity: 0.1;
+  }
+  .btn2 {
+    opacity: 0.1;
+  }
+  .h11 {
+    opacity: 0.3;
+  }
+  .left p {
+    opacity: 0.3;
+  } */
+}
+
+@media (min-width: 1000px) {
+  .banner .bh1 {
+    display: none;
+  }
+}
+
+@media (max-width: 600px) {
+  .left {
+    margin: 0px;
+  }
+}
+@media (max-width: 460px) {
+  .right {
+    margin-bottom: -150px;
+  }
+  .right3 {
+    position: relative;
+    margin-bottom: -100px;
+  }
+
+  .left {
+    position: relative;
+    margin-bottom: -100px;
+  }
+
+  .img2 {
+    margin-top: 50px;
+    margin-bottom: 100px;
+    width: 39vh;
+  }
+
+  .img3 {
+    width: 39vh;
+    margin-bottom: 100px;
+    margin-top: 100px;
+  }
+
+  .r1 {
+    margin-bottom: 50px;
+  }
+
+  .imgs2 {
+    margin-top: 30px;
+  }
+
+  .companies h1 {
+    font-size: 20px;
+  }
+
+  .happy h2 {
+    font-size: 20px;
+  }
+  .cm {
+    font-size: 15px;
+  }
+
+  .text12 {
+    font-size: 20px;
+  }
+
+  .text h4 {
+    font-size: 10px;
+  }
+
+  .text {
+    margin: 50px 0 0 0;
+  }
+
+  .logo12 {
+    margin-left: 30px;
+  }
+
+  .pp {
+    margin-left: 30px;
+  }
+
+  .logo13 {
+    margin-left: 60px;
+  }
+
+  .h12 {
+    margin-bottom: 10px;
+  }
+
+  .sbtn {
+    padding: 3% 5%;
+  }
+
+  .right .imgs {
+    height: 50%;
+    margin-left: 10%;
+    width: 40vh;
+    height: 60vh;
+    margin: 0 0px 100px 0px;
+  }
+}
